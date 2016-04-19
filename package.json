@@ -1,0 +1,16 @@
+{
+  "name": "i18n-converter",
+  "version": "0.0.1",
+  "description": "Convert Angular translate files to react-intl",
+  "main": "converter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rui Araújo <ruka.araujo@gmail.com> (http://www.ruiaraujo.org/)",
+  "license": "MIT",
+  "dependencies": {
+    "flat": "^2.0.0",
+    "glob": "^7.0.3",
+    "json-stable-stringify": "^1.0.1"
+  }
+}
